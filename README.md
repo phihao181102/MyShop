@@ -1,6 +1,6 @@
 # Đây là một dự án về shop bán đồ chơi
 # Trang chủ
-![image](image/Trangchu.png)
+![image](img/1.jpg)
 # Các công nghệ sử dụng trong dự án:
 1. Asp.net core MVC
 2. Bootstrap
